@@ -1,2 +1,2 @@
 # Fashion-Forge
-Online Clothing website with mernstack 
+Online Clothing website with mernstacks
